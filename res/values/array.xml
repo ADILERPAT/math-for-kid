@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="background_list">
+        <item>dog</item>
+        <item>cat</item>
+        <item>duck</item>
+        <item>rabit</item>
+        <item>fish</item>
+        <item>chipmunk</item>
+        <item>horse</item>
+        <item>tiger</item>
+        <item>double_dog</item>
+        <item>sheep</item>
+    </string-array>
+    <string-array name="level_list">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="operatin_list">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>:</item>
+    </string-array>
+
+</resources>

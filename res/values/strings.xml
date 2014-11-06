@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Math for kid</string>
+    <string name="sound">Sound</string>
+    <string name="right_image_button">right</string>
+    <string name="wrong_image_button">wrong</string>
+    <string name="dialog_submit">Submit</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="game_over">Game Over</string>
+    <string name="score_level">Level </string>
+    <string name="level">0</string>
+    <string name="best_level">Best </string>
+    <string name="best">0</string>
+    <string name="play">Play</string>
+    <string name="cancel">Cancel</string>
+    <string name="first_number_tv">1</string>
+    <string name="operation_tv">+</string>
+    <string name="second_number_tv">5</string>
+    <string name="equal_operation_tv">=</string>
+    <string name="result_tv">6</string>
+    <string name="enable_3g">Enable 3G</string>
+    <string name="answer_right">Excellent! correct.</string>
+    <string name="choose_level">Choose level</string>
+    <string name="choose_operation">Choose operation</string>
+    <string name="play_new">New</string>
+    <string name="pay_continue">Do you want to continue?</string>
+    <string name="choose_wrong">Wrong! please choose another result!</string>
+    <string name="congratulation">Congratulation! Do you want to continue? Click New button.</string>
+
+</resources>

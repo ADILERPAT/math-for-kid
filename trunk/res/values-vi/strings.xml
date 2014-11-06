@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Toán cho trẻ em</string>
+    <string name="sound">Sound</string>
+    <string name="right_image_button">Đúng</string>
+    <string name="wrong_image_button">Sai</string>
+    <string name="dialog_submit">Submit</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="game_over">Game Over</string>
+    <string name="score_level">Mức độ</string>
+    <string name="level">0</string>
+    <string name="best_level">Tốt nhất</string>
+    <string name="best">0</string>
+    <string name="play">Chơi</string>
+    <string name="cancel">Hủy</string>
+    <string name="first_number_tv">1</string>
+    <string name="operation_tv">+</string>
+    <string name="second_number_tv">5</string>
+    <string name="equal_operation_tv">=</string>
+    <string name="result_tv">6</string>
+    <string name="enable_3g">Bật 3G</string>
+    <string name="answer_right">Xuất sắc! chính xác.</string>
+    <string name="choose_level">Chọn cấp độ</string>
+    <string name="choose_operation">Chọn phép toán</string>
+    <string name="play_new">Tạo mới</string>
+    <string name="pay_continue">Bạn có muốn chơi tiếp?</string>
+    <string name="choose_wrong">Sai! Xin chọn lại kết quả khác!</string>
+    <string name="congratulation">Chúc mừng! Bạn có muốn tiếp tục? Click vào nút Tạo mới.</string>
+
+</resources>

@@ -27,5 +27,15 @@
     <string name="pay_continue">Do you want to continue?</string>
     <string name="choose_wrong">Wrong! please choose another result!</string>
     <string name="congratulation">Congratulation! Do you want to continue? Click New button.</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_one_text">Tree one</string>
+    <string name="number">0</string>
+    <string name="equal">"="</string>
+    <string name="question_mark">"?"</string>
+    <string name="plus">+</string>
+    <string name="subtract">-</string>
+    <string name="choose_max">Choose Max</string>
+    <string name="choose_min">Choose Min</string>
+    <string name="count_flower">Count Flower</string>
 
 </resources>

@@ -8,5 +8,9 @@
     <dimen name="text_size_score">27dp</dimen>
     <dimen name="text_size_level">27dp</dimen>
     <dimen name="text_size_small">20dp</dimen>
-
+    <dimen name="text_result">30sp</dimen>
+    <dimen name="text_read">120sp</dimen>
+    <dimen name="width_result">100sp</dimen>
+    <dimen name="text_number_padding">10sp</dimen>
+     <dimen name="width_image_main_display">125dp</dimen>
 </resources>

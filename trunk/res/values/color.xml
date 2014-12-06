@@ -11,5 +11,7 @@
     <color name="blue">#034485</color>
     <color name="pink">#d9347d</color>
     <color name="color_header">#DAFAD2</color>
+    <color name="transparent">#00000000</color>
+    <color name="green">#00FF00</color>
 
 </resources>

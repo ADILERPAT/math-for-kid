@@ -41,6 +41,8 @@
         android:layout_weight="1"
         android:gravity="center|bottom"
         android:orientation="horizontal" >
+        
+       
 
         <RelativeLayout
             android:layout_width="wrap_content"
@@ -112,7 +114,8 @@
             <ImageView
                 android:id="@+id/result_four_img"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_height="125dp"
+                
                 android:contentDescription="@string/image_one_text"
                 android:src="@drawable/flower_png" />
 
